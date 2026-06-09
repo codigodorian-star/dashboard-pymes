@@ -1,3 +1,5 @@
 streamlit
 google-cloud-bigquery
 db-dtypes
+openpyxl
+pandas
